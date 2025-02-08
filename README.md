@@ -1,4 +1,6 @@
-# Week-1
+# WEEK-1
 Predicting Solar Power Output Using Linear Regression
-# week-2
+# WEEK-2
 EDA, Histogram for the remaining columns
+# WEEK-3
+ML for Solar Power Output
